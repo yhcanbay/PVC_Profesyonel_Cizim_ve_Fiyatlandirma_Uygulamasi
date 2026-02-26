@@ -48,4 +48,5 @@ Bu projeyi geliştirirken odağım her zaman yüksek performanslı ve güvenilir
 
 ---
 **Geliştirici:** Yusuf Harun Canbay
+---
 Bana ulaşmak veya bu projenin mimarisi hakkında daha fazla konuşmak isterseniz profilimdeki e-posta adresinden veya LinkedIn üzerinden ulaşabilirsiniz.
