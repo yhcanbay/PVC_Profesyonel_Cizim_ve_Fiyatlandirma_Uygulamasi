@@ -42,7 +42,7 @@ Müşteri taleplerini hızlandırmak, hata payını sıfıra indirmek ve karmaş
 ## 💡 Mimari ve Geliştirme Yaklaşımı / Çözülen Zorluklar
 
 Bu projeyi geliştirirken odağım her zaman yüksek performanslı ve güvenilir bir mimari kurmaktı. Öne çıkan bazı mimari kararlarım:
-*   **Güvenlik Stratejisi:** Authentication endpoint'leri (401 hatalarının aşılması, JSON request body handler kuralları) detaylıca yapılandırıldı ve token yaşam döngüleri özel bir mantığa bağlandı.
+*   **Güvenlik Stratejisi:** Authentication endpoint'leri (401 hatalarının aşılması, JSON request body handler kuralları) detaylıca yapılandırdım ve token yaşam döngüleri özel bir mantığa bağladım.
 *   **Görsel Hiyerarşi:** Çizim sayfasında çizimlerin katman yapısı ile oluşturulması ve bu çizimlerin database'i şişirmemesi adına JSON formatında tutulmasını sağladım.
 *   **Fiyat Mimarisi Hizalaması:** Anlık etkileşim gerektiren karmaşık fiyat algoritması, sunucuya sürekli istek atmak yerine hesaplamayı Client (Frontend) tarafında anlık yapacak şekilde kurguladım ve kaynak kullanımı ona göre optimize ettim.
 
