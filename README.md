@@ -34,11 +34,11 @@ Müşteri taleplerini hızlandırmak, hata payını sıfıra indirmek ve karmaş
 *(Aşağıdaki alanlara projenin çalışırken alınmış ekran görüntülerini veya kısa GIF'lerini ekleyebilirsin)*
 
 ### 1. Görsel Çizim Ekranı ve Parametre Girişi
-![Çizim Ekranı](link-gelecek)
+![Çizim Ekranı](Images/Cizim_Ekrani.png)
 *Sağ/Sol açılımlı kanatların görsel olarak tasarlanması.*
 
 ### 2. Anlık Fiyatlandırma Sistemi
-![Fiyat Hesaplama](link-gelecek)
+![Fiyat Hesaplama](Images/Fiyat_Formu_Ekrani.png)
 *Tasarlanan ürünün anlık ve detaylı fiyat raporu.*
 
 ## 💡 Mimari ve Geliştirme Yaklaşımı / Çözülen Zorluklar
